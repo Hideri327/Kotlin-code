@@ -10,7 +10,7 @@ fun main() {
    }
     //message border
     
-    fun printBorder() {
+    fun printBorder(String:border) {
     repeat(23){
         print(border)
     } 
